@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>ShareTextures — New Free Assets</title>
+    <link>https://sharetextures.github.io/sharetextures-social/</link>
+    <description>New ShareTextures assets with IC-Light promotional previews.</description>
+    <language>en</language>
+    <ttl>60</ttl>
+    <atom:link href="https://sharetextures.github.io/sharetextures-social/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Oct 2026 18:28:37 GMT</lastBuildDate>
+    <item>
+      <title>NEW FREE 3D MODEL — Stone 11</title>
+      <link>https://www.sharetextures.com/models/nature/stone-11</link>
+      <guid isPermaLink="false">sharetextures-social:010a760455703e6b4a8c7e22</guid>
+      <pubDate>Tue, 06 Oct 2026 18:28:37 GMT</pubDate>
+      <description>&lt;p&gt;NEW FREE 3D MODEL&lt;br&gt;Stone 11 is available on ShareTextures.&lt;br&gt;Download: https://www.sharetextures.com/models/nature/stone-11&lt;br&gt;&lt;br&gt;#ShareTextures #3DAssets #Textures&lt;/p&gt;&lt;p&gt;&lt;img src="https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/01.jpg" alt="Stone 11"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/02.jpg" alt="Stone 11"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/03.jpg" alt="Stone 11"&gt;&lt;/p&gt;</description>
+      <enclosure url="https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/01.jpg" length="71112" type="image/jpeg" />
+      <media:group>
+        <media:content url="https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/01.jpg" type="image/jpeg" medium="image" width="512" height="512" />
+        <media:content url="https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/02.jpg" type="image/jpeg" medium="image" width="512" height="512" />
+        <media:content url="https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/03.jpg" type="image/jpeg" medium="image" width="512" height="512" />
+      </media:group>
+    </item>
+  </channel>
+</rss>

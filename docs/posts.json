@@ -1,0 +1,38 @@
+[
+  {
+    "id": "010a760455703e6b4a8c7e22",
+    "title": "Stone 11",
+    "source_url": "https://www.sharetextures.com/models/nature/stone-11",
+    "headline": "NEW FREE 3D MODEL",
+    "caption": "NEW FREE 3D MODEL\nStone 11 is available on ShareTextures.\nDownload: https://www.sharetextures.com/models/nature/stone-11\n\n#ShareTextures #3DAssets #Textures",
+    "published_at": "2026-10-06T18:28:37.297064+00:00",
+    "pub_date": "Tue, 06 Oct 2026 18:28:37 GMT",
+    "image_url": "https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/01.jpg",
+    "image_urls": [
+      "https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/01.jpg",
+      "https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/02.jpg",
+      "https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/03.jpg"
+    ],
+    "images": [
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/01.jpg",
+        "width": 512,
+        "height": 512,
+        "bytes": 71112
+      },
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/02.jpg",
+        "width": 512,
+        "height": 512,
+        "bytes": 62572
+      },
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/010a760455703e6b4a8c7e22/03.jpg",
+        "width": 512,
+        "height": 512,
+        "bytes": 64746
+      }
+    ],
+    "render_mode": "IC-Light SD15 FC relighting"
+  }
+]
