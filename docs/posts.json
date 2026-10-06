@@ -1,5 +1,41 @@
 [
   {
+    "id": "ce37ac336bea45b08811c6a6",
+    "title": "Peach 4",
+    "source_url": "https://www.sharetextures.com/models/food/peach-4",
+    "headline": "NEW FREE 3D MODEL",
+    "caption": "NEW FREE 3D MODEL\nPeach 4 is available on ShareTextures.\nDownload: https://www.sharetextures.com/models/food/peach-4\n\n#ShareTextures #3DAssets #Textures",
+    "published_at": "2026-10-06T19:36:20.671351+00:00",
+    "pub_date": "Tue, 06 Oct 2026 19:36:20 GMT",
+    "image_url": "https://sharetextures.github.io/sharetextures-social/images/ce37ac336bea45b08811c6a6/01.jpg",
+    "image_urls": [
+      "https://sharetextures.github.io/sharetextures-social/images/ce37ac336bea45b08811c6a6/01.jpg",
+      "https://sharetextures.github.io/sharetextures-social/images/ce37ac336bea45b08811c6a6/02.jpg",
+      "https://sharetextures.github.io/sharetextures-social/images/ce37ac336bea45b08811c6a6/03.jpg"
+    ],
+    "images": [
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/ce37ac336bea45b08811c6a6/01.jpg",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 201122
+      },
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/ce37ac336bea45b08811c6a6/02.jpg",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 188771
+      },
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/ce37ac336bea45b08811c6a6/03.jpg",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 188662
+      }
+    ],
+    "render_mode": "Original preview on graphite floor with subtle blue/purple background accents — no AI"
+  },
+  {
     "id": "c8c95ca3be4d48539929a75b",
     "title": "Peach 3",
     "source_url": "https://www.sharetextures.com/models/food/peach-3",
