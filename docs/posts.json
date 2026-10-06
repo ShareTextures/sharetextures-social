@@ -1,5 +1,41 @@
 [
   {
+    "id": "e84a9de47885c4b6cfb3a4fa",
+    "title": "Stone 10",
+    "source_url": "https://www.sharetextures.com/models/nature/stone-10",
+    "headline": "NEW FREE 3D MODEL",
+    "caption": "NEW FREE 3D MODEL\nStone 10 is available on ShareTextures.\nDownload: https://www.sharetextures.com/models/nature/stone-10\n\n#ShareTextures #3DAssets #Textures",
+    "published_at": "2026-10-06T19:39:09.435731+00:00",
+    "pub_date": "Tue, 06 Oct 2026 19:39:09 GMT",
+    "image_url": "https://sharetextures.github.io/sharetextures-social/images/e84a9de47885c4b6cfb3a4fa/01.jpg",
+    "image_urls": [
+      "https://sharetextures.github.io/sharetextures-social/images/e84a9de47885c4b6cfb3a4fa/01.jpg",
+      "https://sharetextures.github.io/sharetextures-social/images/e84a9de47885c4b6cfb3a4fa/02.jpg",
+      "https://sharetextures.github.io/sharetextures-social/images/e84a9de47885c4b6cfb3a4fa/03.jpg"
+    ],
+    "images": [
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/e84a9de47885c4b6cfb3a4fa/01.jpg",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 250038
+      },
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/e84a9de47885c4b6cfb3a4fa/02.jpg",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 237577
+      },
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/e84a9de47885c4b6cfb3a4fa/03.jpg",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 237366
+      }
+    ],
+    "render_mode": "Original preview on graphite floor with subtle blue/purple background accents — no AI"
+  },
+  {
     "id": "69228671c87559d105b5d5e5",
     "title": "Door Handle 9",
     "source_url": "https://www.sharetextures.com/models/equipments/door-handle-9",
