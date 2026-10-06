@@ -3,11 +3,24 @@
   <channel>
     <title>ShareTextures — New Free Assets</title>
     <link>https://sharetextures.github.io/sharetextures-social/</link>
-    <description>New ShareTextures assets with IC-Light promotional previews.</description>
+    <description>New ShareTextures assets with promotional previews.</description>
     <language>en</language>
     <ttl>60</ttl>
     <atom:link href="https://sharetextures.github.io/sharetextures-social/feed.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 06 Oct 2026 18:28:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:34:41 GMT</lastBuildDate>
+    <item>
+      <title>NEW FREE 3D MODEL — Door Handle 5</title>
+      <link>https://www.sharetextures.com/models/equipments/door-handle-5</link>
+      <guid isPermaLink="false">sharetextures-social:a115685fe67041171479b5fb</guid>
+      <pubDate>Tue, 06 Oct 2026 19:34:41 GMT</pubDate>
+      <description>&lt;p&gt;NEW FREE 3D MODEL&lt;br&gt;Door Handle 5 is available on ShareTextures.&lt;br&gt;Download: https://www.sharetextures.com/models/equipments/door-handle-5&lt;br&gt;&lt;br&gt;#ShareTextures #3DAssets #Textures&lt;/p&gt;&lt;p&gt;&lt;img src="https://sharetextures.github.io/sharetextures-social/images/a115685fe67041171479b5fb/01.jpg" alt="Door Handle 5"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://sharetextures.github.io/sharetextures-social/images/a115685fe67041171479b5fb/02.jpg" alt="Door Handle 5"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="https://sharetextures.github.io/sharetextures-social/images/a115685fe67041171479b5fb/03.jpg" alt="Door Handle 5"&gt;&lt;/p&gt;</description>
+      <enclosure url="https://sharetextures.github.io/sharetextures-social/images/a115685fe67041171479b5fb/01.jpg" length="126493" type="image/jpeg" />
+      <media:group>
+        <media:content url="https://sharetextures.github.io/sharetextures-social/images/a115685fe67041171479b5fb/01.jpg" type="image/jpeg" medium="image" width="1080" height="1080" />
+        <media:content url="https://sharetextures.github.io/sharetextures-social/images/a115685fe67041171479b5fb/02.jpg" type="image/jpeg" medium="image" width="1080" height="1080" />
+        <media:content url="https://sharetextures.github.io/sharetextures-social/images/a115685fe67041171479b5fb/03.jpg" type="image/jpeg" medium="image" width="1080" height="1080" />
+      </media:group>
+    </item>
     <item>
       <title>NEW FREE 3D MODEL — Stone 11</title>
       <link>https://www.sharetextures.com/models/nature/stone-11</link>
