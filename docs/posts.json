@@ -1,5 +1,41 @@
 [
   {
+    "id": "1efe55e507a0b24a875512e6",
+    "title": "Lemon 5",
+    "source_url": "https://www.sharetextures.com/models/food/lemon-5",
+    "headline": "NEW FREE 3D MODEL",
+    "caption": "NEW FREE 3D MODEL\nLemon 5 is available on ShareTextures.\nDownload: https://www.sharetextures.com/models/food/lemon-5\n\n#ShareTextures #3DAssets #Textures",
+    "published_at": "2026-10-06T19:35:14.870808+00:00",
+    "pub_date": "Tue, 06 Oct 2026 19:35:14 GMT",
+    "image_url": "https://sharetextures.github.io/sharetextures-social/images/1efe55e507a0b24a875512e6/01.jpg",
+    "image_urls": [
+      "https://sharetextures.github.io/sharetextures-social/images/1efe55e507a0b24a875512e6/01.jpg",
+      "https://sharetextures.github.io/sharetextures-social/images/1efe55e507a0b24a875512e6/02.jpg",
+      "https://sharetextures.github.io/sharetextures-social/images/1efe55e507a0b24a875512e6/03.jpg"
+    ],
+    "images": [
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/1efe55e507a0b24a875512e6/01.jpg",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 175570
+      },
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/1efe55e507a0b24a875512e6/02.jpg",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 163509
+      },
+      {
+        "url": "https://sharetextures.github.io/sharetextures-social/images/1efe55e507a0b24a875512e6/03.jpg",
+        "width": 1080,
+        "height": 1080,
+        "bytes": 163448
+      }
+    ],
+    "render_mode": "Original preview on graphite floor with subtle blue/purple background accents — no AI"
+  },
+  {
     "id": "a115685fe67041171479b5fb",
     "title": "Door Handle 5",
     "source_url": "https://www.sharetextures.com/models/equipments/door-handle-5",
